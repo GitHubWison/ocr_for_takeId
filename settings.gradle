@@ -1,0 +1,2 @@
+include ':app',':idcardOcr'
+rootProject.name='OCRForIDCard'
